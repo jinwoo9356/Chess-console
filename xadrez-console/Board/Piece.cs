@@ -14,5 +14,7 @@
             this.board = board;
             this.movimentQt = 0;
         }
+
+        
     }
 }
